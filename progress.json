@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T11:00:27.965Z",
+  "generated_at": "2026-11-26T11:00:30.942Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -650,6 +650,45 @@
       "last_pushed_at": "2026-11-20T13:11:48.755Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:41": {
+      "kind": "problem",
+      "id": "41",
+      "title": "Simple Convolutional 2D Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/41",
+      "path": "problems/0041-simple-convolutional-2d-layer",
+      "first_solved_at": "2026-11-24T05:59:31.381Z",
+      "last_pushed_at": "2026-11-24T05:59:31.381Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-11-24T06:02:43.911Z",
+      "last_pushed_at": "2026-11-24T06:02:43.911Z",
+      "language": "python",
+      "lines": 2
+    },
+    "problem:43": {
+      "kind": "problem",
+      "id": "43",
+      "title": "Implement Ridge Regression Loss Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/43",
+      "path": "problems/0043-implement-ridge-regression-loss-function",
+      "first_solved_at": "2026-11-24T06:05:10.191Z",
+      "last_pushed_at": "2026-11-24T06:05:10.191Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
